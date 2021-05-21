@@ -128,10 +128,10 @@ This project is the administration of Club Chinois
 
 ```bash
     # clone the project
-    git clone https://github.com/LonelVino/world-week.git
+    git clone git@github.com:Club-Chinois/ClubChinois-Admin.git
 
     # enter the project directory
-    cd world-week
+    cd ClubChinois-Admin
     
     # 安装依赖
     npm install
